@@ -36,3 +36,5 @@ This is the format of the events:
 -   Get the events feed from an endpoint
 -   Add notifications support
 
+# Want help?
+Frok the repo and play...
