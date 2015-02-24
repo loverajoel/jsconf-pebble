@@ -1,0 +1,102 @@
+{
+  "uuid": "133215f0-cf20-4c05-997b-3c9be5a64e6a",
+  "shortName": "JSConf",
+  "longName": "JSConf",
+  "companyName": "@loverajoel",
+  "versionCode": 1,
+  "versionLabel": "0.1",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "AR_ICON",
+        "file": "images/ar_ico.png"
+      }, {
+        "type": "png",
+        "name": "AR_IMG",
+        "file": "images/ar.png"
+      }, {
+        "type": "png",
+        "name": "ASIA_ICON",
+        "file": "images/asia_ico.png"
+      }, {
+        "type": "png",
+        "name": "ASIA_IMG",
+        "file": "images/asia.png"
+      }, {
+        "type": "png",
+        "name": "AU_ICON",
+        "file": "images/au_ico.png"
+      }, {
+        "type": "png",
+        "name": "AU_IMG",
+        "file": "images/au.png"
+      },{
+        "type": "png",
+        "name": "BP_ICON",
+        "file": "images/bp_ico.png"
+      }, {
+        "type": "png",
+        "name": "BP_IMG",
+        "file": "images/bp.png"
+      }, {
+        "type": "png",
+        "name": "BR_ICON",
+        "file": "images/br_ico.png"
+      }, {
+        "type": "png",
+        "name": "BR_IMG",
+        "file": "images/br.png"
+      }, {
+        "type": "png",
+        "name": "CO_ICON",
+        "file": "images/co_ico.png"
+      }, {
+        "type": "png",
+        "name": "CO_IMG",
+        "file": "images/co.png"
+      }, {
+        "type": "png",
+        "name": "EU_ICON",
+        "file": "images/eu_ico.png"
+      }, {
+        "type": "png",
+        "name": "EU_IMG",
+        "file": "images/eu.png"
+      },{
+        "type": "png",
+        "name": "US_ICON",
+        "file": "images/us_ico.png"
+      }, {
+        "type": "png",
+        "name": "US_IMG",
+        "file": "images/us.png"
+      },{
+        "type": "png",
+        "name": "UY_ICON",
+        "file": "images/UY_ico.png"
+      }, {
+        "type": "png",
+        "name": "UY_IMG",
+        "file": "images/uy.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_TILE_SPLASH",
+        "file": "images/tile_splash.png"
+      },{
+        "type": "png",
+        "name": "JS",
+        "file": "images/logo_splash.png"
+      }, {
+        "type": "font",
+        "name": "MONO_FONT_14",
+        "file": "fonts/UbuntuMono-Regular.ttf"
+      }
+    ]
+  }
+}
